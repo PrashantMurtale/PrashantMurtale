@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrashantMurtale)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantmurtale@gmail.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Building+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Everything+%F0%9F%94%A7;Crafting+AI+Solutions+%F0%9F%A4%96;DevOps+%7C+MLOps+%7C+IaC" alt="Typing SVG" />
 
@@ -125,7 +125,7 @@ I'm passionate about building **scalable cloud infrastructure**, implementing **
 
 💬 **Open to collaborating on DevOps, Cloud, and AI/ML projects!**
 
-📧 Reach out: [your.email@example.com](mailto:prashantmurtale@gmail.com)
+📧 Reach out: [prashantmurtale@gmail.com](mailto:prashantmurtale@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=PrashantMurtale&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
 
