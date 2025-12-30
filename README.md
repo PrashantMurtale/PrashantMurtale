@@ -125,7 +125,7 @@ I'm passionate about building **scalable cloud infrastructure**, implementing **
 
 💬 **Open to collaborating on DevOps, Cloud, and AI/ML projects!**
 
-📧 Reach out: [your.email@example.com](mailto:your.email@example.com)
+📧 Reach out: [your.email@example.com](mailto:prashantmurtale@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=PrashantMurtale&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
 
