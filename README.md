@@ -1,0 +1,49 @@
+# Prashant Murtale
+
+**DevOps Consultant** | Helping startups build scalable, cost-effective AWS infrastructure
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashant-murtale-762a09236)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prashantmurtale@gmail.com)
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-success?style=flat-square&logo=upwork&logoColor=white)](mailto:prashantmurtale@gmail.com)
+
+---
+
+## 🚀 Services I Offer
+
+I specialize in automating infrastructure and reducing cloud costs for growing tech companies.
+
+*   **☁️ Infrastructure from Scratch:** Zero-to-production AWS/Azure setup using Terraform.
+*   **💸 Cloud Cost Optimization:** Auditing AWS bills and reducing waste by 20-30%.
+*   **🔄 CI/CD Implementation:** moving manual deployments to 100% automated GitHub Actions/Jenkins pipelines.
+*   **🐳 Containerization:** Migrating legacy apps to Docker and Kubernetes (EKS/AKS).
+
+---
+
+## 🛠 Tech Stack
+
+```
+Cloud        →  AWS, Azure, GCP
+IaC          →  Terraform, Ansible
+Containers   →  Docker, Kubernetes, Helm
+CI/CD        →  Jenkins, GitHub Actions, ArgoCD
+Monitoring   →  Prometheus, Grafana, ELK Stack
+Languages    →  Python, Bash, Java
+```
+
+---
+
+## 📌 Portfolio Projects
+
+| Project | Business Impact | Tech Stack |
+|---------|-----------------|------------|
+| [**devops-automation-scripts**](https://github.com/PrashantMurtale/devops-automation-scripts) | **Cost Savings Toolkit:** Scripts I use to automate maintenance and identify unused resources. | `Bash` `Python` `AWS` |
+| [**aws-eks-cicd-pipeline**](https://github.com/PrashantMurtale/aws-eks-cicd-pipeline) | **Turnkey Infrastructure:** A complete production-grade EKS cluster deployable in minutes. | `Terraform` `EKS` `Jenkins` |
+| [**tf-az-infra-devops**](https://github.com/PrashantMurtale/tf-az-infra-devops) | **Azure Automation:** Full infrastructure automation for Azure environments. | `Azure` `Terraform` `AKS` |
+
+---
+
+<p align="center">
+  📍 India  •  💼 <b>Available for freelance projects</b>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=PrashantMurtale&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
