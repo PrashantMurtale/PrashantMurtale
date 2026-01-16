@@ -36,6 +36,7 @@ Languages    →  Python, Bash, Java
 
 | Project | Business Impact | Tech Stack |
 |---------|-----------------|------------|
+| [**docker-observability-stack**](https://github.com/PrashantMurtale/docker-observability-stack) | **Turnkey Monitoring:** One-click Prometheus & Grafana stack for Docker. | `Docker` `Prometheus` `Grafana` |
 | [**devops-automation-scripts**](https://github.com/PrashantMurtale/devops-automation-scripts) | **Cost Savings Toolkit:** Scripts I use to automate maintenance and identify unused resources. | `Bash` `Python` `AWS` |
 | [**aws-eks-cicd-pipeline**](https://github.com/PrashantMurtale/aws-eks-cicd-pipeline) | **Turnkey Infrastructure:** A complete production-grade EKS cluster deployable in minutes. | `Terraform` `EKS` `Jenkins` |
 | [**tf-az-infra-devops**](https://github.com/PrashantMurtale/tf-az-infra-devops) | **Azure Automation:** Full infrastructure automation for Azure environments. | `Azure` `Terraform` `AKS` |
