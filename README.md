@@ -1,6 +1,6 @@
 # Prashant Murtale
 
-**DevOps Consultant** | Helping startups build scalable, cost-effective AWS infrastructure
+**AI-Powered DevOps Engineer** | Building intelligent infrastructure that monitors, heals, and scales itself
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashant-murtale-762a09236)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prashantmurtale@gmail.com)
@@ -8,31 +8,44 @@
 
 ---
 
+## 🤖 AI + DevOps Projects
+
+I build **intelligent agents** that automate complex DevOps workflows using AI:
+
+| Project | What It Does |
+|---------|--------------|
+| [**ai-incident-responder**](https://github.com/PrashantMurtale/ai-incident-responder) | 🚨 Receives alerts → AI diagnoses root cause → Sends fix to Slack |
+| [**ai-kustomize-agent**](https://github.com/PrashantMurtale/ai-kustomize-agent) | 🔧 "Add memory limits to all deployments" → Generates Kustomize patches |
+| [**infra-chatops-agent**](https://github.com/PrashantMurtale/infra-chatops-agent) | 💬 Natural language → kubectl commands via Slack |
+| [**k8s-self-healing-agent**](https://github.com/PrashantMurtale/k8s-self-healing-agent) | 🔄 Auto-detects CrashLoopBackOff, OOMKilled → Self-remediates |
+
+---
+
 ## 🚀 Services I Offer
 
-I specialize in automating infrastructure and reducing cloud costs for growing tech companies.
-
-*   **☁️ Infrastructure from Scratch:** Zero-to-production AWS/Azure setup using Terraform.
-*   **💸 Cloud Cost Optimization:** Auditing AWS bills and reducing waste by 20-30%.
-*   **🔄 CI/CD Implementation:** moving manual deployments to 100% automated GitHub Actions/Jenkins pipelines.
-*   **🐳 Containerization:** Migrating legacy apps to Docker and Kubernetes (EKS/AKS).
+*   **🤖 AI-Powered Automation:** Intelligent agents for incident response, ChatOps, and self-healing infrastructure
+*   **☁️ Infrastructure from Scratch:** Zero-to-production AWS/Azure setup using Terraform
+*   **💸 Cloud Cost Optimization:** Auditing AWS bills and reducing waste by 20-30%
+*   **🔄 CI/CD Implementation:** 100% automated GitHub Actions/Jenkins/ArgoCD pipelines
+*   **🐳 Containerization:** Migrating legacy apps to Docker and Kubernetes (EKS/AKS)
 
 ---
 
 ## 🛠 Tech Stack
 
 ```
+AI/ML        →  Gemini AI, LangChain, Python
 Cloud        →  AWS, Azure, GCP
-IaC          →  Terraform, Ansible
+IaC          →  Terraform, Ansible, Kustomize
 Containers   →  Docker, Kubernetes, Helm
 CI/CD        →  Jenkins, GitHub Actions, ArgoCD
 Monitoring   →  Prometheus, Grafana, ELK Stack
-Languages    →  Python, Bash, Java
+Languages    →  Python, Bash, Go
 ```
 
 ---
 
-## 📌 Portfolio Projects
+## 📌 Infrastructure Projects
 
 | Project | Business Impact | Tech Stack |
 |---------|-----------------|------------|
