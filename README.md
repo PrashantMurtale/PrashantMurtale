@@ -49,6 +49,7 @@ Languages    →  Python, Bash, Go
 
 | Project | Business Impact | Tech Stack |
 |---------|-----------------|------------|
+| [**terraform-multi-cloud-iac**](https://github.com/PrashantMurtale/terraform-multi-cloud-iac) | **Multi-Cloud Ready:** Production-grade IaC supporting AWS, Azure, GCP with modules for networking, compute, storage & Kubernetes (EKS/AKS/GKE). | `Terraform` `AWS` `Azure` `GCP` `K8s` |
 | [**ansible-server-hardening**](https://github.com/PrashantMurtale/ansible-server-hardening) | **Security Automation:** CIS-compliant server hardening with SSH, firewall, fail2ban. | `Ansible` `Security` `Linux` |
 | [**serverless-mvp-starter**](https://github.com/PrashantMurtale/serverless-mvp-starter) | **Zero-Cost Backend:** A serverless boilerplate (Lambda/DynamoDB) that costs $0 when idle. | `Terraform` `Python` `AWS` |
 | [**docker-observability-stack**](https://github.com/PrashantMurtale/docker-observability-stack) | **Turnkey Monitoring:** One-click Prometheus & Grafana stack for Docker. | `Docker` `Prometheus` `Grafana` |
