@@ -56,6 +56,7 @@ Languages    →  Python, Bash, Go
 | [**devops-automation-scripts**](https://github.com/PrashantMurtale/devops-automation-scripts) | **Cost Savings Toolkit:** Scripts I use to automate maintenance and identify unused resources. | `Bash` `Python` `AWS` |
 | [**aws-eks-cicd-pipeline**](https://github.com/PrashantMurtale/aws-eks-cicd-pipeline) | **Turnkey Infrastructure:** A complete production-grade EKS cluster deployable in minutes. | `Terraform` `EKS` `Jenkins` |
 | [**tf-az-infra-devops**](https://github.com/PrashantMurtale/tf-az-infra-devops) | **Azure Automation:** Full infrastructure automation for Azure environments. | `Azure` `Terraform` `AKS` |
+| [**keda-rabbitmq-autoscaling**](https://github.com/PrashantMurtale/keda-rabbitmq-autoscaling) | **Event-Driven Autoscaling:** Dynamic Kubernetes pod scaling using KEDA based on RabbitMQ queue length. | `KEDA` `RabbitMQ` `Kubernetes` |
 
 ---
 
