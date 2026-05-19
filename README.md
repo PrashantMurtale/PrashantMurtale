@@ -45,10 +45,26 @@ Languages    →  Python, Bash, Go
 
 ---
 
+## 🔥 Featured: Disaster Recovery & IaC Automation
+
+> Recovered **21+ live Azure resources** from complete Terraform data loss — **zero downtime**
+
+| | |
+|---|---|
+| 🔗 **Repo** | [**tf-azure-disaster-recovery**](https://github.com/PrashantMurtale/tf-azure-disaster-recovery) |
+| 🔄 **What** | Full DR of Azure infra after complete loss of Terraform code & state files |
+| 📦 **Architecture** | 5 reusable modules · 3 environments (dev/qa/prod) · Remote state on Azure Blob |
+| 🚀 **CI/CD** | GitOps with PR-based plan reviews, gated apply, and **drift detection every 6 hours** |
+| 💰 **Impact** | ~40% cost reduction via AKS autoscaling & nightly scale-down schedules |
+| 🛠 **Tech** | `Terraform` `Terraformer` `Azure` `AKS` `GitHub Actions` `PowerShell` |
+
+---
+
 ## 📌 Infrastructure Projects
 
 | Project | Business Impact | Tech Stack |
 |---------|-----------------|------------|
+| [**tf-azure-disaster-recovery**](https://github.com/PrashantMurtale/tf-azure-disaster-recovery) | **Disaster Recovery:** Recovered 21+ Azure resources from complete IaC data loss with zero downtime. | `Terraform` `Terraformer` `Azure` `GitHub Actions` |
 | [**terraform-multi-cloud-iac**](https://github.com/PrashantMurtale/terraform-multi-cloud-iac) | **Multi-Cloud Ready:** Production-grade IaC supporting AWS, Azure, GCP with modules for networking, compute, storage & Kubernetes (EKS/AKS/GKE). | `Terraform` `AWS` `Azure` `GCP` `K8s` |
 | [**ansible-server-hardening**](https://github.com/PrashantMurtale/ansible-server-hardening) | **Security Automation:** CIS-compliant server hardening with SSH, firewall, fail2ban. | `Ansible` `Security` `Linux` |
 | [**serverless-mvp-starter**](https://github.com/PrashantMurtale/serverless-mvp-starter) | **Zero-Cost Backend:** A serverless boilerplate (Lambda/DynamoDB) that costs $0 when idle. | `Terraform` `Python` `AWS` |
